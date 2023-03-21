@@ -1,0 +1,41 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1177.v90374a_ef4d09">
+  <suites>
+    <suite>
+      <file>C:\Users\srika\eclipse-workspace\test\target\surefire-reports\TEST-TestSuite.xml</file>
+      <name>TestSuite</name>
+      <duration>24.56</duration>
+      <time>24.56</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>23.604</duration>
+          <className>test.test</className>
+          <testName>startTest</testName>
+          <skipped>false</skipped>
+          <stdout>parentWindowCDwindow-ACD4BF2CA88D1CC665979E3F293861BC
+</stdout>
+          <stderr>SLF4J: Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting Microsoft Edge WebDriver 110.0.1587.69 (f970cc122bfe683a1917444c8c3ba299b94f7ec8) on port 14915
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/Web
+...[truncated 140 chars]...
+][WARNING]: This version of Microsoft Edge WebDriver has not been tested with Microsoft Edge version 111.
+[1679376419.565][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 21, 2023 10:56:59 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+</stderr>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>24.56</duration>
+  <skipOldReports>true</skipOldReports>
+  <keepLongStdio>false</keepLongStdio>
+</result>

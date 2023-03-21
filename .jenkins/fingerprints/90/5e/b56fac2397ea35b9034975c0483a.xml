@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-04 09:18:34.19 UTC</timestamp>
+  <md5sum>905eb56fac2397ea35b9034975c0483a</md5sum>
+  <fileName>com.squareup.okio:okio-1.14.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>Maventest</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>Maventest/Kurella:Kurella</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

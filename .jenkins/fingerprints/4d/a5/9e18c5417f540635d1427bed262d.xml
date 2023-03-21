@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-21 05:27:25.794 UTC</timestamp>
+  <md5sum>4da59e18c5417f540635d1427bed262d</md5sum>
+  <fileName>io.netty:netty-transport-classes-epoll-4.1.87.Final.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

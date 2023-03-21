@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-04 09:18:34.313 UTC</timestamp>
+  <md5sum>c68361d7147eb62ec245b120cc8f7af2</md5sum>
+  <fileName>org.eclipse.jetty:jetty-client-9.4.3.v20170317.jar</fileName>
+  <usages>
+    <entry>
+      <string>Maventest</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>Maventest/Kurella:Kurella</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

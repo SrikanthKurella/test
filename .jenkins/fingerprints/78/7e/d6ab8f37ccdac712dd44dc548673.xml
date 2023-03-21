@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-21 05:27:26.476 UTC</timestamp>
+  <md5sum>787ed6ab8f37ccdac712dd44dc548673</md5sum>
+  <fileName>io.netty:netty-handler-proxy-4.1.60.Final.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

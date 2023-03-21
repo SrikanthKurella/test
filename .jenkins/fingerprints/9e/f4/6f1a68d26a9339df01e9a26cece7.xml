@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-04 09:18:32.286 UTC</timestamp>
+  <md5sum>9ef46f1a68d26a9339df01e9a26cece7</md5sum>
+  <fileName>org.springframework:spring-beans-5.3.4.jar</fileName>
+  <usages>
+    <entry>
+      <string>Maventest</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>Maventest/Kurella:Kurella</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

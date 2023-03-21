@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-04 09:18:32.722 UTC</timestamp>
+  <md5sum>c09faa1b063681cf45706c6df50685b6</md5sum>
+  <fileName>com.fasterxml.jackson.core:jackson-annotations-2.9.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>Maventest</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>Maventest/Kurella:Kurella</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

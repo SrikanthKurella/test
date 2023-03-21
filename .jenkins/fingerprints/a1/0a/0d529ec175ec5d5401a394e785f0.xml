@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-21 05:27:26.719 UTC</timestamp>
+  <md5sum>a10a0d529ec175ec5d5401a394e785f0</md5sum>
+  <fileName>com.typesafe.netty:netty-reactive-streams-2.0.4.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

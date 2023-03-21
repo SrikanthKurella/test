@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-04 09:18:34.598 UTC</timestamp>
+  <md5sum>48c0c775a14be73b83d52922f80d4206</md5sum>
+  <fileName>org.testng:testng-6.8.jar</fileName>
+  <usages>
+    <entry>
+      <string>Maventest</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>Maventest/Kurella:Kurella</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

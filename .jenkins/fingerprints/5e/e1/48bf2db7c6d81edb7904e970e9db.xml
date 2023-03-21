@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-04 09:18:33.360 UTC</timestamp>
+  <md5sum>5ee148bf2db7c6d81edb7904e970e9db</md5sum>
+  <fileName>org.jsoup:jsoup-1.13.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Maventest</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>Maventest/Kurella:Kurella</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-04 09:18:33.151 UTC</timestamp>
+  <md5sum>dd83accb899363c32b07d7a1b2e4ce40</md5sum>
+  <fileName>com.google.code.findbugs:jsr305-3.0.2.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>Maventest</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>Maventest/Kurella:Kurella</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

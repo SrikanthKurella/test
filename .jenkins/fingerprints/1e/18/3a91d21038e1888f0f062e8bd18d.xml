@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-21 05:27:26.86 UTC</timestamp>
+  <md5sum>1e183a91d21038e1888f0f062e8bd18d</md5sum>
+  <fileName>io.netty:netty-codec-http-4.1.87.Final.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

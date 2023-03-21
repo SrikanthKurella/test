@@ -1,0 +1,27 @@
+Started by user [8mha:////4AeCHBF/S5GH/UwHmk9bhjuKynLE91jOK/WnAV8B+hFiAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZ+/dLi1CL94oyi1NR4QyNjALPqbI3EAAAA[0mKurella Srikanth
+Running as SYSTEM
+Building in workspace C:\Users\srika\.jenkins\workspace\Cherry
+No emails were triggered.
+[Cherry] $ cmd /c call C:\Users\srika\AppData\Local\Temp\jenkins15569242119500409415.bat
+
+C:\Users\srika\.jenkins\workspace\Cherry>java -version 
+java version "17.0.6" 2023-01-17 LTS
+Java(TM) SE Runtime Environment (build 17.0.6+9-LTS-190)
+Java HotSpot(TM) 64-Bit Server VM (build 17.0.6+9-LTS-190, mixed mode, sharing)
+
+C:\Users\srika\.jenkins\workspace\Cherry>exit 0 
+[Cherry] $ cmd /c call C:\Users\srika\AppData\Local\Temp\jenkins4236970010317462165.bat
+
+C:\Users\srika\.jenkins\workspace\Cherry>mvn -version 
+Apache Maven 3.8.6 (84538c9988a25aec085021c365c560670ad80f63)
+Maven home: C:\Program Files\apache-maven-3.8.6
+Java version: 17.0.6, vendor: Oracle Corporation, runtime: C:\jdk-17.0.6
+Default locale: en_IN, platform encoding: Cp1252
+OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
+Email was triggered for: Always
+Sending email for trigger: Always
+Sending email to: srikanthkurella123@gmail.com
+Connection error sending email, retrying once more in 10 seconds...
+Connection error sending email, retrying once more in 10 seconds...
+Failed after second try sending email
+Finished: SUCCESS

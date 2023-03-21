@@ -1,0 +1,70 @@
+Started by user [8mha:////4AeCHBF/S5GH/UwHmk9bhjuKynLE91jOK/WnAV8B+hFiAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZ+/dLi1CL94oyi1NR4QyNjALPqbI3EAAAA[0mKurella Srikanth
+Running as SYSTEM
+Building in workspace C:\Users\srika\.jenkins\workspace\Bittu
+[Bittu] $ cmd /c call C:\Users\srika\AppData\Local\Temp\jenkins6034313812402563864.bat
+
+C:\Users\srika\.jenkins\workspace\Bittu>cd C:\Users\srika\eclipse-workspace\test 
+
+C:\Users\srika\eclipse-workspace\test>mvn clean test 
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------------< test:test >------------------------------
+[INFO] Building test 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ test ---
+[INFO] Deleting C:\Users\srika\eclipse-workspace\test\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ test ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.5.1:compile (default-compile) @ test ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ test ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.5.1:testCompile (default-testCompile) @ test ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to C:\Users\srika\eclipse-workspace\test\target\test-classes
+[INFO] /C:/Users/srika/eclipse-workspace/test/src/test/java/test/test.java: C:\Users\srika\eclipse-workspace\test\src\test\java\test\test.java uses or overrides a deprecated API.
+[INFO] /C:/Users/srika/eclipse-workspace/test/src/test/java/test/test.java: Recompile with -Xlint:deprecation for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:3.0.0-M9:test (default-test) @ test ---
+[INFO] Using auto detected provider org.apache.maven.surefire.testng.TestNGProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running TestSuite
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting Microsoft Edge WebDriver 110.0.1587.69 (f970cc122bfe683a1917444c8c3ba299b94f7ec8) on port 12932
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+[1679375315.801][WARNING]: This version of Microsoft Edge WebDriver has not been tested with Microsoft Edge version 111.
+[1679375315.810][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 21, 2023 10:38:36 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 111, so returning the closest version found: 110
+parentWindowCDwindow-D8CC4E1DE921BE64861B25A2F6228362
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.529 s - in TestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  42.752 s
+[INFO] Finished at: 2023-03-21T10:39:08+05:30
+[INFO] ------------------------------------------------------------------------
+Finished: SUCCESS

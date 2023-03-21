@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-21 05:27:25.447 UTC</timestamp>
+  <original>
+    <name>maven_project/test:test</name>
+    <number>1</number>
+  </original>
+  <md5sum>8eb9d1bb889d3c387bd3e5cc22235707</md5sum>
+  <fileName>test:test:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

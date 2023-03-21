@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-21 05:27:25.594 UTC</timestamp>
+  <md5sum>93b6d4ceef7945eac49e5604d2fbd36d</md5sum>
+  <fileName>io.opentelemetry:opentelemetry-semconv-1.22.0-alpha.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

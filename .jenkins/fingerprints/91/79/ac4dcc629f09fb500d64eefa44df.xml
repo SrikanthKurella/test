@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-21 05:27:25.550 UTC</timestamp>
+  <md5sum>9179ac4dcc629f09fb500d64eefa44df</md5sum>
+  <fileName>org.seleniumhq.selenium:selenium-chromium-driver-4.8.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven_project</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven_project/test:test</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
